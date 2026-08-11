@@ -1,1 +1,1 @@
-88.228.70.246, patso
+88.228.70.246, Default MTA Server
